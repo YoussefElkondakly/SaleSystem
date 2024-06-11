@@ -1,0 +1,49 @@
+{
+    "baseData": [
+        {
+            "id": 20,
+            "modelName": "Xiaomi",
+            "transactions": [
+                "22"
+            ],
+            "inventory": [
+                "no"
+            ],
+            "reports": [
+                "new Reports"
+            ],
+            "userName": "user",
+            "bol": false
+        },
+        {
+            "id": 50,
+            "modelName": "IPhone",
+            "transactions": [
+                "www"
+            ],
+            "inventory": [
+                "nosf"
+            ],
+            "reports": [
+                "new Reports"
+            ],
+            "userName": "JOe",
+            "bol": false
+        },
+        {
+            "id": 31,
+            "modelName": "I phone X",
+            "transactions": [
+                "www"
+            ],
+            "inventory": [
+                "nosf"
+            ],
+            "reports": [
+                "new Reports"
+            ],
+            "userName": "JOe",
+            "bol": false
+        }
+    ]
+}

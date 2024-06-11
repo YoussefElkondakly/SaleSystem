@@ -7,9 +7,10 @@ Create  a  comprehensive  sales  system  that  allows  for  managing
  ===>sales transactions,===>  tracking  inventory, ===> and  generating  sales  reports.  The  system  should 
  Sale{
  id
- transactions[]
- inventory[]
- reports[]
+ transactions[]patch
+ inventory[]patch
+ reports[]patch
+ its all based on the request body 
  }
  //TODO===> We Will make the saleinstance that will construct the data up
 facilitate 
